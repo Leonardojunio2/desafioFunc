@@ -1,0 +1,22 @@
+{
+  "name": "desafiofunc",
+  "version": "1.0.0",
+  "description": "desafio inicial - node - aula",
+  "main": "funcionarios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardojunio2/desafioFunc.git"
+  },
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardojunio2/desafioFunc/issues"
+  },
+  "homepage": "https://github.com/Leonardojunio2/desafioFunc#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
